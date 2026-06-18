@@ -1,2 +1,4 @@
-# One Fun Showdown
-A simple copy of Wordle with leaderboard system
+# One Man Showdown
+2-player party game
+Player 1: z
+player 2: /
