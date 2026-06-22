@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Minigame base parent class
+
 package minigames;
 
 import java.awt.AlphaComposite;
