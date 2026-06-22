@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Dodge minigame
+
 package minigames;
 
 import entities.Obstacle;
