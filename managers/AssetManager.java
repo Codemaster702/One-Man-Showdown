@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Asset manager
+
 package managers;
 
 import java.awt.Image;
