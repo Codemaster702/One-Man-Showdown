@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Score manager
+
 package core;
 
 /**
