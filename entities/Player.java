@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Player class
+
 package entities;
 
 public class Player {
