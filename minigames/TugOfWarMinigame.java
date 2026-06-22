@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Tug of war minigame
+
 package minigames;
 
 import java.awt.Color;
