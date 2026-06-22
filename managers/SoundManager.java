@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Sound manager
+
 package managers;
 
 import java.io.BufferedInputStream;
