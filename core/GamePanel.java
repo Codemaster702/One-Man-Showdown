@@ -1,3 +1,9 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Game Panel class
+
+
+
 package core;
 
 import javax.swing.*;
