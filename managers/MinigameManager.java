@@ -1,3 +1,7 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Minigame manager
+
 package managers;
 
 import minigames.*;
