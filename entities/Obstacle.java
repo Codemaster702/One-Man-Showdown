@@ -1,3 +1,8 @@
+//Mohammed Shekhibrahim
+//June 15 2026
+//Obstacle class
+
+
 package entities;
 
 public class Obstacle {
